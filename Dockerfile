@@ -1,7 +1,7 @@
 # FROM ubuntu:latest
 # CMD echo "hello this is docker push repooo"
 FROM ubuntu: 18.04
-MAINTAINER eshansh zaware esha<zawareeshansh@gmail.com›
+MAINTAINER mr. Prince X
 RUN apt update && \
 apt install -y iputils-ping iproute2
 RUN apt install -y nginx
