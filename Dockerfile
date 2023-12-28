@@ -1,5 +1,3 @@
-# FROM ubuntu:latest
-# CMD echo "hello this is docker push repooo"
 FROM ubuntu:18.04
 MAINTAINER mr_Prince_X
 RUN apt update && \
